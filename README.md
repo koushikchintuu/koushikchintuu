@@ -9,7 +9,7 @@
 I'm a passionate **Software Developer** with a love for coding and problem-solving. I thrive on creating impactful solutions and learning new technologies to tackle challenges effectively.
 
 - 🔭 **Currently Working On**:  
-  - **Airbnb Clone** (MERN Stack)  
+  - **SoJorn** (MERN Stack)  
   - **Railway Gate Tracker** (MERN Stack)
 
 - 🌱 **Currently Learning**: MERN Stack (MongoDB, Express, React, Node.js)  
