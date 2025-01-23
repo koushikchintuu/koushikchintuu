@@ -43,7 +43,8 @@ I'm a passionate **Software Developer** with a love for coding and problem-solvi
 
 ---
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/koushik-kaliga-06a699336/)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://x.com/home?lang=en)  
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:kaligakoushik02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/koushik-kaliga-06a699336/)  Link: https://www.linkedin.com/in/koushik-kaliga-06a699336/
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://x.com/home?lang=en)  Link: https://x.com/home?lang=en
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:kaligakoushik02@gmail.com) Gmail: kaligakoushik02@gmail.com
+:
 
