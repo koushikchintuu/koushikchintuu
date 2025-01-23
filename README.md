@@ -47,7 +47,7 @@ I'm a passionate **Software Developer** with a love for coding and problem-solvi
 **LinkedIn**: [https://www.linkedin.com/in/koushik-kaliga-06a699336/](https://www.linkedin.com/in/koushik-kaliga-06a699336/)  
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://x.com/home?lang=en)  
-**Twitter**: [https://x.com/home?lang=en](https://x.com/home?lang=en)  
+**Twitter**: [https://x.com/home?lang=en](https://x.com/Solo_leveling_C)  
 
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:kaligakoushik02@gmail.com)  
 **Email**: [kaligakoushik02@gmail.com](mailto:kaligakoushik02@gmail.com)
