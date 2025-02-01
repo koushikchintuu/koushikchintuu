@@ -11,7 +11,7 @@
 
 > A passionate **Full-Stack Developer** crafting innovative solutions through code. I thrive on building impactful applications and exploring cutting-edge technologies.
 
-- 🔨 Currently building **SoJourn** (An Airbnb-inspired platform) and **Railway Gate Tracker**
+- 🔨 Currently building **Railway Gate Tracker** to slove my own real world problem
 - 🌱 Mastering the **MERN Stack** ecosystem
 - 💡 Love turning creative ideas into reality through code
 - 🤝 Open to collaborate on innovative web development projects
