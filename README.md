@@ -33,7 +33,7 @@ I'm a passionate **Software Developer** with a love for coding and problem-solvi
 ---
 
 ## 📌 Pinned Repositories
-[!AirBnb Clobe ----- Comming Soon]  
+[!SoJourn(AirBnb replica) ----- https://sojourn-hnxq.onrender.com]  
 [!Raiway Gate Tracker ----- Comming Soon]
 
 ---
