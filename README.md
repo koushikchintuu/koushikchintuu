@@ -1,4 +1,4 @@
-### <h1 align="center">Hey there! I'm Koushik Chintuu 👋</h1>
+### <h1 align="center">Hello World! I'm Koushik Chintuu 👋</h1>
 <h3 align="center">Turning ideas into reality, one line of code at a time 🚀</h3>
 
 <p align="center">
